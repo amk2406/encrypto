@@ -1,0 +1,32 @@
+{
+  "name": "encrypto",
+  "version": "1.0.0",
+  "description": "Flexible, zero-dependency encryption for Node.js. cbc(key,iv).encr() / gcm(key).encrFile() style.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "encryption",
+    "crypto",
+    "aes",
+    "gcm",
+    "nodejs",
+    "security",
+    "zero-dependency"
+  ],
+  "author": "amk2406 <abdulamk2406@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amk2406/encrypto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amk2406/encrypto/issues"
+  },
+  "homepage": "https://github.com/amk2406/encrypto#readme"
+}
